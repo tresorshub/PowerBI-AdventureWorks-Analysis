@@ -24,8 +24,8 @@ While the core Star Schema and DAX are the foundation, this dashboard pushes int
 ##  Repository Contents
 To make viewing this project seamless and accessible without Microsoft licensing barriers, I have provided everything you need right here:
 
-* **🎬 3 Interactive Demo Videos:** Check out the short video files above. They showcase the dashboard fully interactive, filtering live, and demonstrating the AI tools in action.
-* **📊 The Raw `.pbix` File:** The actual Power BI Desktop file is included. I highly encourage you to download it, open the hood, and explore my Power Query ETL transformations, data model relationships, and DAX measures.
+* ** 3 Interactive Demo Videos:** Check out the short video files above. They showcase the dashboard fully interactive, filtering live, and demonstrating the AI tools in action.
+* ** The Raw `.pbix` File:** The actual Power BI Desktop file is included. I highly encourage you to download it, open the hood, and explore my Power Query ETL transformations, data model relationships, and DAX measures.
 
 ---
 > ** Disclaimer:** *AdventureWorks Cycles is a completely fictional manufacturing company. All information, financials, and customer details used in this project are from an open-source, free-to-use dataset created strictly for educational and portfolio purposes. Tell me what you think about it, I think this is the best way to step into my data analytics career aspirations*
