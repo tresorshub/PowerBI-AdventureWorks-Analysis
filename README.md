@@ -1,6 +1,6 @@
-# 🚴‍♂️ AdventureWorks BI & AI Analytics Engine
+#  AdventureWorks BI & AI Analytics Engine
 
-## 📌 Project Overview
+##  Project Overview
 Welcome to my advanced Business Intelligence project for **AdventureWorks Cycles**! 
 
 This repository houses a professional-grade, interactive Power BI dashboard tracking $24.9M in revenue, regional performance, and product-level trends. This project is the culmination of the infamous, 17-hour **Microsoft Power BI Desktop for Business Intelligence** course by Maven Analytics with Udemy. I can confidently say this is one of the most rigorous and exceptionally structured data analytics training programs available(best course I've had so far). It simulates the actual, day-to-day workflow of a BI professional from raw data extraction to dynamic, executive-level reporting.
